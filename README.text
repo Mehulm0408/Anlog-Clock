@@ -1,0 +1,22 @@
+# Analog Clock ⏰
+
+This is a simple **analog clock** built using **HTML, CSS, and JavaScript**.  
+It displays the current time with hour, minute, and second hands that update in real-time.
+
+## 📂 Project Structure
+```
+├── index.html   # Main HTML file
+├── style.css    # Styles for the clock design
+├── script.js    # JavaScript logic to rotate the clock hands
+├── clock.png    # Clock face background
+```
+
+## 🚀 How It Works
+- The **clock face** is created using `clock.png`.
+- The **hour, minute, and second hands** are styled with CSS.
+- JavaScript (`setInterval`) updates the hands every second based on the system time.
+
+## ▶️ How to Run
+1. Download all files into the same folder.
+2. Open **index.html** in any modern web browser.
+3. The clock will run automatically.
